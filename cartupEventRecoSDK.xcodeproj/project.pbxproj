@@ -77,7 +77,6 @@
 		0FC06EE726E345FB007F7682 = {
 			isa = PBXGroup;
 			children = (
-				0FD9F6D726E47CEA007166D2 /* errors */,
 				0FD9F6C226E45F8D007166D2 /* source */,
 				0FC06EF126E345FB007F7682 /* Products */,
 			);
@@ -112,6 +111,7 @@
 		0FD9F6C226E45F8D007166D2 /* source */ = {
 			isa = PBXGroup;
 			children = (
+				0FD9F6D726E47CEA007166D2 /* errors */,
 				0FD9F6DA26E54966007166D2 /* Log */,
 				0FC06EFE26E34642007F7682 /* config.swift */,
 				0FC06F0626E34676007F7682 /* cartup.swift */,
