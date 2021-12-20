@@ -6,6 +6,6 @@ let package = Package(
         .library(name: "cartupEventRecoSDK", targets: ["cartupEventRecoSDK"])
     ],
     targets: [
-        .target(name: "cartupEventRecoSDK", path: "cartupEventRecoSDK")
+        .target(name: "cartupEventRecoSDK", path: "source")
     ]
 )
