@@ -1,7 +1,7 @@
 // swift-tools-version:5.2
 import PackageDescription
 let package = Package(
-    name: "MyStaticLib",
+    name: "cartupEventRecoSDK",
     products: [
         .library(name: "cartupEventRecoSDK", targets: ["cartupEventRecoSDK"])
     ],
