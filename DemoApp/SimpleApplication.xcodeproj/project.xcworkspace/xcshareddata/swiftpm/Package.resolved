@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cartupEventRecoSDK",
+        "repositoryURL": "https://github.com/cartup/cartup-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "290a4f2fe619ea6ba30adc2c71bfc7a96fd94493",
+          "version": "0.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
